@@ -19,7 +19,7 @@ logins = (
     'Emily','Susan','Jessica','Lauren','Abigail',
     'Margaret','Lily','Michelle','Madison','Jessica',
     'Sophie','Tracy','Charlotte','Sarah', 'qwerty',
-    'test_user','test_test','user123','user_user', 'bzzzz'
+    'test_user','test_test','user123','user_user', 'bzzzz', 'Erbol'
 )
 
 domains = ('@gmail.com','@yandex.com','@bk.ru','@outlook.com','@mail.ru','@icloud.com')
